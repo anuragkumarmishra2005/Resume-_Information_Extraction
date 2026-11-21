@@ -1,0 +1,141 @@
+{
+  "personal": {
+    "name": "James Jones",
+    "emails": [
+      "jamesjones99@example.com"
+    ],
+    "phones": [
+      "(396) 630-7211"
+    ],
+    "location": "Port Keith, CO",
+    "links": {
+      "linkedin": "https://linkedin.com/in/jamesjones99",
+      "github": "https://github.com/jamesjones99",
+      "other": [
+        "https://jamesjones99.dev"
+      ]
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "Redis",
+      "Elasticsearch",
+      "MongoDB",
+      "VS Code",
+      "Jenkins",
+      "AWS",
+      "GitHub",
+      "HTML",
+      "C++",
+      "Java",
+      "CSS",
+      "TypeScript",
+      "Tailwind CSS",
+      "Next.js",
+      "Django",
+      "Express",
+      "pandas",
+      "Team Collaboration",
+      "Problem Solving",
+      "Communication",
+      "Leadership",
+      "Analytical Thinking"
+    ],
+    "by_category": {
+      "Databases": [
+        "Redis",
+        "Elasticsearch",
+        "MongoDB"
+      ],
+      "Tools & Platforms": [
+        "VS Code",
+        "Jenkins",
+        "AWS",
+        "GitHub"
+      ],
+      "Languages": [
+        "HTML",
+        "C++",
+        "Java",
+        "CSS",
+        "TypeScript"
+      ],
+      "Frameworks & Libraries": [
+        "Tailwind CSS",
+        "Next.js",
+        "Django",
+        "Express",
+        "pandas"
+      ],
+      "Soft Skills": [
+        "Team Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Leadership",
+        "Analytical Thinking"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Indian Institute of Technology Delhi",
+      "location": "New Delhi, India",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Salesforce",
+      "start_date": "Nov 2018",
+      "end_date": "Present",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 69% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Top Analytics Dashboard",
+      "technologies": [
+        "Jenkins",
+        "Leadership",
+        "Redis",
+        "VS Code"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Jenkins, Leadership.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Early Engine",
+      "technologies": [
+        "HTML",
+        "AWS",
+        "pandas",
+        "Django"
+      ],
+      "description": [
+        "Developed full stack web application leveraging HTML, AWS.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified Google Cloud Engineer",
+    "Winner of 2022 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_08.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

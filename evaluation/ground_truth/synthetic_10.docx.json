@@ -1,0 +1,135 @@
+{
+  "personal": {
+    "name": "Jason Adams",
+    "emails": [
+      "jasonadams63@example.com"
+    ],
+    "phones": [
+      "(681) 219-9837"
+    ],
+    "location": "New Cynthiaside, VA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/jasonadams63",
+      "github": "https://github.com/jasonadams63",
+      "other": [
+        "https://jasonadams63.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented frontend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Rust",
+      "C++",
+      "JavaScript",
+      "Analytical Thinking",
+      "Communication",
+      "Team Collaboration",
+      "Web Development",
+      "CI/CD",
+      "REST APIs",
+      "Docker",
+      "GitHub",
+      "Jira",
+      "VS Code",
+      "PostgreSQL",
+      "Elasticsearch",
+      "SQLite",
+      "MySQL"
+    ],
+    "by_category": {
+      "Languages": [
+        "Rust",
+        "C++",
+        "JavaScript"
+      ],
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Communication",
+        "Team Collaboration"
+      ],
+      "Concepts": [
+        "Web Development",
+        "CI/CD",
+        "REST APIs"
+      ],
+      "Tools & Platforms": [
+        "Docker",
+        "GitHub",
+        "Jira",
+        "VS Code"
+      ],
+      "Databases": [
+        "PostgreSQL",
+        "Elasticsearch",
+        "SQLite",
+        "MySQL"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "University of Washington",
+      "location": "Seattle, WA",
+      "start_year": "2018",
+      "end_year": "2021"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Google LLC",
+      "start_date": "June 2018",
+      "end_date": "Nov 2019",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 67% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Netflix",
+      "start_date": "Jan 2020",
+      "end_date": "July 2021",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 82% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Salesforce",
+      "start_date": "June 2022",
+      "end_date": "Nov 2023",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 78% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [
+    "Certified Kubernetes Administrator",
+    "Winner of 2022 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_10.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

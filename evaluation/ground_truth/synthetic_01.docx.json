@@ -1,0 +1,143 @@
+{
+  "personal": {
+    "name": "Danielle Johnson",
+    "emails": [
+      "daniellejohnson91@gmail.com"
+    ],
+    "phones": [
+      "(959) 481-5012"
+    ],
+    "location": "Johnberg, WA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/daniellejohnson91",
+      "github": "https://github.com/daniellejohnson91",
+      "other": [
+        "https://daniellejohnson91.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Communication",
+      "Leadership",
+      "Analytical Thinking",
+      "OOP",
+      "System Design",
+      "DSA",
+      "CSS",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "TypeScript",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Flask",
+      "FastAPI",
+      "Next.js",
+      "React"
+    ],
+    "by_category": {
+      "Soft Skills": [
+        "Communication",
+        "Leadership",
+        "Analytical Thinking"
+      ],
+      "Concepts": [
+        "OOP",
+        "System Design",
+        "DSA"
+      ],
+      "Languages": [
+        "CSS",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "TypeScript"
+      ],
+      "Databases": [
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Elasticsearch"
+      ],
+      "Frameworks & Libraries": [
+        "Flask",
+        "FastAPI",
+        "Next.js",
+        "React"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2020",
+      "end_year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "organization": "Google LLC",
+      "start_date": "Dec 2018",
+      "end_date": "Sept 2019",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 35% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "organization": "Microsoft Corporation",
+      "start_date": "Sept 2020",
+      "end_date": "May 2021",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 66% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "organization": "Microsoft Corporation",
+      "start_date": "Jan 2022",
+      "end_date": "Nov 2023",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 49% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blue Analytics Dashboard",
+      "technologies": [
+        "OOP",
+        "MySQL",
+        "JavaScript",
+        "Elasticsearch"
+      ],
+      "description": [
+        "Developed full stack web application leveraging OOP, MySQL.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_01.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

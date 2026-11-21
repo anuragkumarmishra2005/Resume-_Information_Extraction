@@ -1,0 +1,131 @@
+{
+  "personal": {
+    "name": "Wendy Rice",
+    "emails": [
+      "wendyrice89@example.com"
+    ],
+    "phones": [
+      "(863) 264-8606"
+    ],
+    "location": "Lake Jenniferside, WV",
+    "links": {
+      "linkedin": "https://linkedin.com/in/wendyrice89",
+      "github": "https://github.com/wendyrice89",
+      "other": []
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "HTML",
+      "Java",
+      "CSS",
+      "Rust",
+      "Flask",
+      "Express",
+      "pandas",
+      "Tailwind CSS",
+      "Next.js",
+      "Leadership",
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Communication",
+      "Problem Solving",
+      "GitHub",
+      "VS Code",
+      "Linux",
+      "Kubernetes",
+      "Docker"
+    ],
+    "by_category": {
+      "Languages": [
+        "HTML",
+        "Java",
+        "CSS",
+        "Rust"
+      ],
+      "Frameworks & Libraries": [
+        "Flask",
+        "Express",
+        "pandas",
+        "Tailwind CSS",
+        "Next.js"
+      ],
+      "Soft Skills": [
+        "Leadership",
+        "Analytical Thinking",
+        "Team Collaboration",
+        "Communication",
+        "Problem Solving"
+      ],
+      "Tools & Platforms": [
+        "GitHub",
+        "VS Code",
+        "Linux",
+        "Kubernetes",
+        "Docker"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "start_year": "2017",
+      "end_year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "DevOps Engineer",
+      "organization": "Microsoft Corporation",
+      "start_date": "Nov 2018",
+      "end_date": "Sept 2019",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 65% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Example Cloud Tracker",
+      "technologies": [
+        "pandas",
+        "Rust",
+        "GitHub",
+        "CSS"
+      ],
+      "description": [
+        "Developed full stack web application leveraging pandas, Rust.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Specific Analytics Dashboard",
+      "technologies": [
+        "HTML",
+        "Java",
+        "Analytical Thinking",
+        "Tailwind CSS"
+      ],
+      "description": [
+        "Developed full stack web application leveraging HTML, Java.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified Google Cloud Engineer",
+    "Winner of 2022 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_18.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

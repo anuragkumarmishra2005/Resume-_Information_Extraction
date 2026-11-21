@@ -1,0 +1,108 @@
+{
+  "personal": {
+    "name": "Ashley Miller",
+    "emails": [
+      "ashleymiller33@outlook.com"
+    ],
+    "phones": [
+      "+91 9510573736"
+    ],
+    "location": "Cabreraside, WI",
+    "links": {
+      "linkedin": "https://linkedin.com/in/ashleymiller33",
+      "github": "https://github.com/ashleymiller33",
+      "other": [
+        "https://ashleymiller33.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented full stack engineer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "CSS",
+      "Rust",
+      "Python",
+      "Go",
+      "C++",
+      "MySQL",
+      "Elasticsearch",
+      "Redis",
+      "PostgreSQL",
+      "MongoDB",
+      "Leadership",
+      "Problem Solving",
+      "Team Collaboration"
+    ],
+    "by_category": {
+      "Languages": [
+        "CSS",
+        "Rust",
+        "Python",
+        "Go",
+        "C++"
+      ],
+      "Databases": [
+        "MySQL",
+        "Elasticsearch",
+        "Redis",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "Soft Skills": [
+        "Leadership",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "KR Mangalam University",
+      "location": "Gurugram, Haryana, India",
+      "start_year": "2019",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Meta Platforms",
+      "start_date": "May 2018",
+      "end_date": "Apr 2019",
+      "location": "Menlo Park, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 67% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Rotors Robotics",
+      "start_date": "May 2020",
+      "end_date": "July 2021",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 84% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_24.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

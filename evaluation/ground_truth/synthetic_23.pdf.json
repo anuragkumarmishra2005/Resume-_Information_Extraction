@@ -1,0 +1,141 @@
+{
+  "personal": {
+    "name": "Natasha Decker",
+    "emails": [
+      "natashadecker49@techmail.org"
+    ],
+    "phones": [
+      "+91 7123217456"
+    ],
+    "location": "Johnbury, FM",
+    "links": {
+      "linkedin": "https://linkedin.com/in/natashadecker49",
+      "github": "https://github.com/natashadecker49",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Rust",
+      "JavaScript",
+      "Go",
+      "TypeScript",
+      "REST APIs",
+      "OOP",
+      "Microservices",
+      "Agile",
+      "GitHub",
+      "Docker",
+      "Git",
+      "Jenkins",
+      "pandas",
+      "Tailwind CSS",
+      "Flask",
+      "scikit-learn",
+      "Express",
+      "Analytical Thinking",
+      "Leadership",
+      "Problem Solving",
+      "Communication"
+    ],
+    "by_category": {
+      "Languages": [
+        "Rust",
+        "JavaScript",
+        "Go",
+        "TypeScript"
+      ],
+      "Concepts": [
+        "REST APIs",
+        "OOP",
+        "Microservices",
+        "Agile"
+      ],
+      "Tools & Platforms": [
+        "GitHub",
+        "Docker",
+        "Git",
+        "Jenkins"
+      ],
+      "Frameworks & Libraries": [
+        "pandas",
+        "Tailwind CSS",
+        "Flask",
+        "scikit-learn",
+        "Express"
+      ],
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Leadership",
+        "Problem Solving",
+        "Communication"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "start_year": "2018",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Netflix",
+      "start_date": "Feb 2018",
+      "end_date": "Present",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 64% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "organization": "Salesforce",
+      "start_date": "Mar 2020",
+      "end_date": "Oct 2021",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 30% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "organization": "Salesforce",
+      "start_date": "Nov 2022",
+      "end_date": "June 2023",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 36% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [
+    "Certified Google Cloud Engineer",
+    "Winner of 2024 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_23.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

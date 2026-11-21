@@ -1,0 +1,136 @@
+{
+  "personal": {
+    "name": "John Ford",
+    "emails": [
+      "johnford41@gmail.com"
+    ],
+    "phones": [
+      "+91 9888969087"
+    ],
+    "location": "Veronicaside, IN",
+    "links": {
+      "linkedin": "https://linkedin.com/in/johnford41",
+      "github": "https://github.com/johnford41",
+      "other": [
+        "https://johnford41.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented cloud solutions architect with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "JavaScript",
+      "Go",
+      "TypeScript",
+      "C++",
+      "Linux",
+      "Git",
+      "Jenkins",
+      "GitHub",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Problem Solving",
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Leadership",
+      "Communication"
+    ],
+    "by_category": {
+      "Languages": [
+        "JavaScript",
+        "Go",
+        "TypeScript",
+        "C++"
+      ],
+      "Tools & Platforms": [
+        "Linux",
+        "Git",
+        "Jenkins",
+        "GitHub"
+      ],
+      "Databases": [
+        "MySQL",
+        "Redis",
+        "Elasticsearch"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Team Collaboration",
+        "Leadership",
+        "Communication"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": "2017",
+      "end_year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "DevOps Engineer",
+      "organization": "Rotors Robotics",
+      "start_date": "Sept 2018",
+      "end_date": "July 2019",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 90% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "organization": "Netflix",
+      "start_date": "Dec 2020",
+      "end_date": "Aug 2021",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 54% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reveal Analytics Dashboard",
+      "technologies": [
+        "C++",
+        "Problem Solving",
+        "Communication",
+        "Git"
+      ],
+      "description": [
+        "Developed full stack web application leveraging C++, Problem Solving.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Garden AI Platform",
+      "technologies": [
+        "Git",
+        "C++",
+        "Leadership",
+        "Problem Solving"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Git, C++.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_11.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

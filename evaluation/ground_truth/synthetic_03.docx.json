@@ -1,0 +1,112 @@
+{
+  "personal": {
+    "name": "William Johnson",
+    "emails": [
+      "williamjohnson90@example.com"
+    ],
+    "phones": [
+      "(356) 582-3646"
+    ],
+    "location": "Lake Debra, ND",
+    "links": {
+      "linkedin": "https://linkedin.com/in/williamjohnson90",
+      "github": "https://github.com/williamjohnson90",
+      "other": [
+        "https://williamjohnson90.dev"
+      ]
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "Kubernetes",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Java",
+      "HTML",
+      "Rust",
+      "REST APIs",
+      "DSA",
+      "CI/CD",
+      "Microservices",
+      "Agile",
+      "scikit-learn",
+      "Express",
+      "FastAPI",
+      "Spring Boot"
+    ],
+    "by_category": {
+      "Tools & Platforms": [
+        "Kubernetes",
+        "Git",
+        "GitHub",
+        "Linux"
+      ],
+      "Languages": [
+        "Java",
+        "HTML",
+        "Rust"
+      ],
+      "Concepts": [
+        "REST APIs",
+        "DSA",
+        "CI/CD",
+        "Microservices",
+        "Agile"
+      ],
+      "Frameworks & Libraries": [
+        "scikit-learn",
+        "Express",
+        "FastAPI",
+        "Spring Boot"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": "2019",
+      "end_year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Microsoft Corporation",
+      "start_date": "Apr 2018",
+      "end_date": "Present",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 28% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "organization": "Google LLC",
+      "start_date": "Oct 2020",
+      "end_date": "Sept 2021",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 49% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [
+    "Certified AWS Solutions Architect",
+    "Winner of 2021 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_03.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

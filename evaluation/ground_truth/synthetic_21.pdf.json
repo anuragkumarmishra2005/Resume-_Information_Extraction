@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "name": "Kenneth Fowler",
+    "emails": [
+      "kennethfowler58@techmail.org"
+    ],
+    "phones": [
+      "+91 8117030631"
+    ],
+    "location": "East Nathaniel, GA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/kennethfowler58",
+      "github": "https://github.com/kennethfowler58",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented devops engineer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "OOP",
+      "CI/CD",
+      "Web Development",
+      "REST APIs",
+      "Microservices",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C++",
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "GitHub",
+      "Linux",
+      "AWS",
+      "Jira",
+      "Redis",
+      "Elasticsearch",
+      "MongoDB",
+      "PostgreSQL",
+      "SQLite"
+    ],
+    "by_category": {
+      "Concepts": [
+        "OOP",
+        "CI/CD",
+        "Web Development",
+        "REST APIs",
+        "Microservices"
+      ],
+      "Languages": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "C++"
+      ],
+      "Soft Skills": [
+        "Leadership",
+        "Communication",
+        "Problem Solving"
+      ],
+      "Tools & Platforms": [
+        "GitHub",
+        "Linux",
+        "AWS",
+        "Jira"
+      ],
+      "Databases": [
+        "Redis",
+        "Elasticsearch",
+        "MongoDB",
+        "PostgreSQL",
+        "SQLite"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "start_year": "2015",
+      "end_year": "2019"
+    },
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "start_year": "2016",
+      "end_year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "organization": "Rotors Robotics",
+      "start_date": "Dec 2018",
+      "end_date": "Mar 2019",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 36% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Notice App",
+      "technologies": [
+        "Redis",
+        "SQLite",
+        "Communication",
+        "Web Development"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Redis, SQLite.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_21.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

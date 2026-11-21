@@ -1,0 +1,180 @@
+{
+  "personal": {
+    "name": "Anurag Kumar Mishra",
+    "emails": [
+      "anuragkumarmishra414@gmail.com"
+    ],
+    "phones": [
+      "+91 7827349893"
+    ],
+    "location": "New Delhi, India",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anurag-kumar-mishra-8b47b63a6",
+      "github": "https://github.com/anuragkumarmishra2005",
+      "other": [
+        "https://leetcode.com/u/Anurag_Kumar_Mishra",
+        "https://geeksforgeeks.org/user/anuragkumarm9b5"
+      ]
+    }
+  },
+  "summary": "Motivated BCA student and aspiring software developer with hands-on experience in full-stack development, machine learning applications, and algorithmic problem solving. Proficient in Python and Java, with a passion for building real-world projects and continuously learning modern technologies.",
+  "skills": {
+    "all": [
+      "Python",
+      "Java",
+      "C++",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Flask",
+      "pandas",
+      "NumPy",
+      "scikit-learn",
+      "Streamlit",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "Jupyter Notebook",
+      "VS Code",
+      "OOP",
+      "DSA Fundamentals",
+      "REST APIs",
+      "Machine Learning",
+      "Web Development",
+      "Problem Solving",
+      "Communication",
+      "Team Collaboration",
+      "Analytical Thinking"
+    ],
+    "by_category": {
+      "Languages": [
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS"
+      ],
+      "Frameworks & Libraries": [
+        "Flask",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Streamlit"
+      ],
+      "Tools & Platforms": [
+        "Git",
+        "GitHub",
+        "MySQL",
+        "Jupyter Notebook",
+        "VS Code"
+      ],
+      "Concepts": [
+        "OOP",
+        "DSA Fundamentals",
+        "REST APIs",
+        "Machine Learning",
+        "Web Development",
+        "Problem Solving"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Team Collaboration",
+        "Analytical Thinking",
+        "Problem Solving"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "KR Mangalam University",
+      "location": "Gurugram, Haryana, India",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Robotics Engineering Intern",
+      "organization": "Rotors",
+      "start_date": "June 2025",
+      "end_date": "July 2025",
+      "location": "India, Delhi",
+      "description": [
+        "Designed a smart IoT-enabled livestock collar monitoring health metrics (temperature, heart rate) and GPS location for 100+ animals simultaneously with continuous data logging.",
+        "Integrated 5+ sensor modules, 2 microcontrollers, and Bluetooth communication systems achieving real-time data transmission with under 2-second latency across field conditions.",
+        "Collaborated with a 4-member multidisciplinary team to prototype, field-test, and present the fully functional device to company leadership, completing all deliverables within the internship timeframe."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chat Buddy AI - AI Chatbot Application",
+      "technologies": [
+        "React JS",
+        "TypeScript",
+        "Vite",
+        "Groq API",
+        "Tailwind CSS"
+      ],
+      "description": [
+        "Built a sleek, ChatGPT-style web app using React 18, TypeScript, and Vite with Tailwind CSS and Framer Motion for a smooth, responsive UI.",
+        "Integrated Groq API (Llama 3.1) for ultra-fast AI inference using Server-Sent Events (SSE) streaming for instant responses.",
+        "Persisted chat history and API keys in localStorage so conversations survive page refreshes and no backend required.",
+        "Rendered rich AI responses with react-markdown and KaTeX, supporting formatted code blocks and mathematical expressions."
+      ]
+    },
+    {
+      "name": "Student Performance Prediction App",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "Streamlit",
+        "pandas"
+      ],
+      "description": [
+        "Preprocessed a student dataset by handling missing values, encoding categorical features, and normalizing data.",
+        "Trained and compared ML models (Logistic Regression, Random Forest, Decision Tree) to select the best performer.",
+        "Deployed an interactive Streamlit dashboard where users input student data and receive instant grade predictions.",
+        "Visualized feature importance and EDA insights to make results interpretable and user-friendly."
+      ]
+    },
+    {
+      "name": "Music Streaming App (Spotify-Inspired)",
+      "technologies": [
+        "Python",
+        "Flask",
+        "JavaScript",
+        "MySQL",
+        "HTML",
+        "CSS"
+      ],
+      "description": [
+        "Designed a modern responsive UI with sidebar navigation, a persistent player bar, and playlist management inspired by Spotify.",
+        "Implemented audio playback controls: play/pause, next/previous track, volume slider, and dynamic seek bar using JavaScript.",
+        "Built a Flask REST backend with MySQL to manage users, songs, albums, playlists, and liked songs.",
+        "Added user authentication (register/login/logout) and a search feature to find songs and artists."
+      ]
+    },
+    {
+      "name": "Personal & Academic Projects",
+      "technologies": [],
+      "description": [
+        "Applied programming knowledge through coursework, self-initiated projects, and online learning platforms.",
+        "Collaborated with peers to debug assignments, review code, and complete team-based lab projects."
+      ]
+    }
+  ],
+  "achievements": [
+    "Active competitive programmer on LeetCode and GeeksforGeeks, regularly solving DSA problems.",
+    "Consistent GitHub activity with multiple project repositories showcasing practical development skills.",
+    "Participated in inter-college coding events and online hackathons."
+  ],
+  "meta": {
+    "source_file": "AnuragMishra_resume_2026.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

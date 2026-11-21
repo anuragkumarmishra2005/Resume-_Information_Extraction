@@ -1,0 +1,135 @@
+{
+  "personal": {
+    "name": "Erica Mcclain",
+    "emails": [
+      "ericamcclain78@outlook.com"
+    ],
+    "phones": [
+      "(673) 588-5422"
+    ],
+    "location": "New Roberttown, CO",
+    "links": {
+      "linkedin": "https://linkedin.com/in/ericamcclain78",
+      "github": "https://github.com/ericamcclain78",
+      "other": [
+        "https://ericamcclain78.dev"
+      ]
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "TypeScript",
+      "Java",
+      "JavaScript",
+      "Rust",
+      "Next.js",
+      "FastAPI",
+      "pandas",
+      "scikit-learn",
+      "Tailwind CSS",
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication",
+      "Analytical Thinking",
+      "System Design",
+      "CI/CD",
+      "Web Development",
+      "Microservices",
+      "Agile"
+    ],
+    "by_category": {
+      "Languages": [
+        "TypeScript",
+        "Java",
+        "JavaScript",
+        "Rust"
+      ],
+      "Frameworks & Libraries": [
+        "Next.js",
+        "FastAPI",
+        "pandas",
+        "scikit-learn",
+        "Tailwind CSS"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Team Collaboration",
+        "Communication",
+        "Analytical Thinking"
+      ],
+      "Concepts": [
+        "System Design",
+        "CI/CD",
+        "Web Development",
+        "Microservices",
+        "Agile"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "start_year": null,
+      "end_year": null
+    },
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2020",
+      "end_year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Salesforce",
+      "start_date": "Oct 2018",
+      "end_date": "Present",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 69% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Discover App",
+      "technologies": [
+        "Tailwind CSS",
+        "TypeScript",
+        "Rust",
+        "Team Collaboration"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Tailwind CSS, TypeScript.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Early App",
+      "technologies": [
+        "Tailwind CSS",
+        "Team Collaboration",
+        "Rust",
+        "Next.js"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Tailwind CSS, Team Collaboration.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_02.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

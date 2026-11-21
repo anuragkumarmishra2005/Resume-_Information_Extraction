@@ -1,0 +1,107 @@
+{
+  "personal": {
+    "name": "Joseph Clark",
+    "emails": [
+      "josephclark99@techmail.org"
+    ],
+    "phones": [
+      "(903) 439-5334"
+    ],
+    "location": "Jasonfort, MO",
+    "links": {
+      "linkedin": "https://linkedin.com/in/josephclark99",
+      "github": "https://github.com/josephclark99",
+      "other": [
+        "https://josephclark99.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Flask",
+      "Spring Boot",
+      "scikit-learn",
+      "Communication",
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Problem Solving",
+      "Redis",
+      "MongoDB",
+      "SQLite",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Go",
+      "TypeScript",
+      "C++",
+      "GitHub",
+      "Kubernetes",
+      "AWS"
+    ],
+    "by_category": {
+      "Frameworks & Libraries": [
+        "Flask",
+        "Spring Boot",
+        "scikit-learn"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Analytical Thinking",
+        "Team Collaboration",
+        "Problem Solving"
+      ],
+      "Databases": [
+        "Redis",
+        "MongoDB",
+        "SQLite",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "Languages": [
+        "Python",
+        "SQL",
+        "Go",
+        "TypeScript",
+        "C++"
+      ],
+      "Tools & Platforms": [
+        "GitHub",
+        "Kubernetes",
+        "AWS"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Associate Degree in Computer Information Systems",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Rotors Robotics",
+      "start_date": "Sept 2018",
+      "end_date": "May 2019",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 43% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_13.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

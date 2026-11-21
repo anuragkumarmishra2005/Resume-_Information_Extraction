@@ -1,0 +1,141 @@
+{
+  "personal": {
+    "name": "Wendy Taylor",
+    "emails": [
+      "wendytaylor89@gmail.com"
+    ],
+    "phones": [
+      "(846) 900-5708"
+    ],
+    "location": "Daviston, VI",
+    "links": {
+      "linkedin": "https://linkedin.com/in/wendytaylor89",
+      "github": "https://github.com/wendytaylor89",
+      "other": [
+        "https://wendytaylor89.dev"
+      ]
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "Docker",
+      "Linux",
+      "Git",
+      "Jira",
+      "Python",
+      "TypeScript",
+      "Go",
+      "C++",
+      "REST APIs",
+      "DSA",
+      "System Design",
+      "Microservices"
+    ],
+    "by_category": {
+      "Tools & Platforms": [
+        "Docker",
+        "Linux",
+        "Git",
+        "Jira"
+      ],
+      "Languages": [
+        "Python",
+        "TypeScript",
+        "Go",
+        "C++"
+      ],
+      "Concepts": [
+        "REST APIs",
+        "DSA",
+        "System Design",
+        "Microservices"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "University of Texas at Austin",
+      "location": "Austin, TX",
+      "start_year": "2018",
+      "end_year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Rotors Robotics",
+      "start_date": "Oct 2018",
+      "end_date": "Present",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 49% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Stripe Inc.",
+      "start_date": "Aug 2020",
+      "end_date": "May 2021",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 21% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Stripe Inc.",
+      "start_date": "Nov 2022",
+      "end_date": "Sept 2023",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 40% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Break Cloud Tracker",
+      "technologies": [
+        "DSA",
+        "Python",
+        "Go",
+        "System Design"
+      ],
+      "description": [
+        "Developed full stack web application leveraging DSA, Python.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Claim Engine",
+      "technologies": [
+        "Python",
+        "Jira",
+        "Go",
+        "C++"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Python, Jira.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified AWS Solutions Architect",
+    "Winner of 2024 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_16.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

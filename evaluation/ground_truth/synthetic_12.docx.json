@@ -1,0 +1,128 @@
+{
+  "personal": {
+    "name": "Megan Parsons",
+    "emails": [
+      "meganparsons48@gmail.com"
+    ],
+    "phones": [
+      "(480) 246-1893"
+    ],
+    "location": "Port Antonio, MD",
+    "links": {
+      "linkedin": "https://linkedin.com/in/meganparsons48",
+      "github": "https://github.com/meganparsons48",
+      "other": []
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "Leadership",
+      "Team Collaboration",
+      "Problem Solving",
+      "VS Code",
+      "AWS",
+      "GitHub",
+      "Git",
+      "HTML",
+      "Java",
+      "CSS",
+      "JavaScript"
+    ],
+    "by_category": {
+      "Soft Skills": [
+        "Leadership",
+        "Team Collaboration",
+        "Problem Solving"
+      ],
+      "Tools & Platforms": [
+        "VS Code",
+        "AWS",
+        "GitHub",
+        "Git"
+      ],
+      "Languages": [
+        "HTML",
+        "Java",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "start_year": "2015",
+      "end_year": "2019"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Washington",
+      "location": "Seattle, WA",
+      "start_year": "2018",
+      "end_year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Salesforce",
+      "start_date": "Aug 2018",
+      "end_date": "May 2019",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 74% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "organization": "Google LLC",
+      "start_date": "Oct 2020",
+      "end_date": "Dec 2021",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 32% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "organization": "Meta Platforms",
+      "start_date": "May 2022",
+      "end_date": "Nov 2023",
+      "location": "Menlo Park, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 30% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Institution Analytics Dashboard",
+      "technologies": [
+        "Java",
+        "Team Collaboration",
+        "Problem Solving",
+        "Leadership"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Java, Team Collaboration.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_12.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

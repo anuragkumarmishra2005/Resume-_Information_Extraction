@@ -1,0 +1,162 @@
+{
+  "personal": {
+    "name": "Michelle James",
+    "emails": [
+      "michellejames80@techmail.org"
+    ],
+    "phones": [
+      "(961) 686-8373"
+    ],
+    "location": "Reidstad, GA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/michellejames80",
+      "github": "https://github.com/michellejames80",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented data scientist with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Linux",
+      "Kubernetes",
+      "Docker",
+      "Jira",
+      "AWS",
+      "Django",
+      "Flask",
+      "scikit-learn",
+      "Tailwind CSS",
+      "FastAPI",
+      "MySQL",
+      "SQLite",
+      "PostgreSQL",
+      "Elasticsearch",
+      "MongoDB",
+      "Web Development",
+      "Microservices",
+      "OOP",
+      "DSA",
+      "SQL",
+      "Python",
+      "Rust",
+      "JavaScript"
+    ],
+    "by_category": {
+      "Tools & Platforms": [
+        "Linux",
+        "Kubernetes",
+        "Docker",
+        "Jira",
+        "AWS"
+      ],
+      "Frameworks & Libraries": [
+        "Django",
+        "Flask",
+        "scikit-learn",
+        "Tailwind CSS",
+        "FastAPI"
+      ],
+      "Databases": [
+        "MySQL",
+        "SQLite",
+        "PostgreSQL",
+        "Elasticsearch",
+        "MongoDB"
+      ],
+      "Concepts": [
+        "Web Development",
+        "Microservices",
+        "OOP",
+        "DSA"
+      ],
+      "Languages": [
+        "SQL",
+        "Python",
+        "Rust",
+        "JavaScript"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": "2020",
+      "end_year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Rotors Robotics",
+      "start_date": "Apr 2018",
+      "end_date": "July 2019",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 82% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "organization": "Salesforce",
+      "start_date": "June 2020",
+      "end_date": "Nov 2021",
+      "location": "San Francisco, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 71% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Rotors Robotics",
+      "start_date": "Mar 2022",
+      "end_date": "Oct 2023",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 88% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hospital App",
+      "technologies": [
+        "DSA",
+        "Rust",
+        "Linux",
+        "Docker"
+      ],
+      "description": [
+        "Developed full stack web application leveraging DSA, Rust.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Hear Engine",
+      "technologies": [
+        "AWS",
+        "MongoDB",
+        "Django",
+        "Kubernetes"
+      ],
+      "description": [
+        "Developed full stack web application leveraging AWS, MongoDB.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_09.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

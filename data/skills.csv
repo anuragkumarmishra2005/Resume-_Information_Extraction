@@ -1,0 +1,520 @@
+skill,category
+Python,Languages
+Java,Languages
+C++,Languages
+C,Languages
+C#,Languages
+Go,Languages
+Golang,Languages
+Rust,Languages
+JavaScript,Languages
+TypeScript,Languages
+PHP,Languages
+Ruby,Languages
+Swift,Languages
+Kotlin,Languages
+R,Languages
+Scala,Languages
+Dart,Languages
+SQL,Languages
+HTML,Languages
+CSS,Languages
+HTML5,Languages
+CSS3,Languages
+Bash,Languages
+Shell,Languages
+PowerShell,Languages
+Perl,Languages
+Haskell,Languages
+Lua,Languages
+Julia,Languages
+MATLAB,Languages
+Solidity,Languages
+GraphQL,Languages
+Sass,Languages
+Less,Languages
+Elixir,Languages
+Clojure,Languages
+React,Frameworks & Libraries
+React JS,Frameworks & Libraries
+React Native,Frameworks & Libraries
+Next.js,Frameworks & Libraries
+Angular,Frameworks & Libraries
+AngularJS,Frameworks & Libraries
+Vue,Frameworks & Libraries
+Vue.js,Frameworks & Libraries
+Nuxt.js,Frameworks & Libraries
+Svelte,Frameworks & Libraries
+SvelteKit,Frameworks & Libraries
+Node.js,Frameworks & Libraries
+Express,Frameworks & Libraries
+Express.js,Frameworks & Libraries
+NestJS,Frameworks & Libraries
+Django,Frameworks & Libraries
+Flask,Frameworks & Libraries
+FastAPI,Frameworks & Libraries
+Tornado,Frameworks & Libraries
+Spring,Frameworks & Libraries
+Spring Boot,Frameworks & Libraries
+ASP.NET,Frameworks & Libraries
+ASP.NET Core,Frameworks & Libraries
+Ruby on Rails,Frameworks & Libraries
+Laravel,Frameworks & Libraries
+Symfony,Frameworks & Libraries
+PyTorch,Frameworks & Libraries
+TensorFlow,Frameworks & Libraries
+Keras,Frameworks & Libraries
+scikit-learn,Frameworks & Libraries
+pandas,Frameworks & Libraries
+NumPy,Frameworks & Libraries
+SciPy,Frameworks & Libraries
+Matplotlib,Frameworks & Libraries
+Seaborn,Frameworks & Libraries
+OpenCV,Frameworks & Libraries
+Hugging Face,Frameworks & Libraries
+Transformers,Frameworks & Libraries
+LangChain,Frameworks & Libraries
+LlamaIndex,Frameworks & Libraries
+Streamlit,Frameworks & Libraries
+Gradio,Frameworks & Libraries
+Tailwind CSS,Frameworks & Libraries
+Bootstrap,Frameworks & Libraries
+Material-UI,Frameworks & Libraries
+Chakra UI,Frameworks & Libraries
+Ant Design,Frameworks & Libraries
+Redux,Frameworks & Libraries
+Redux Toolkit,Frameworks & Libraries
+Zustand,Frameworks & Libraries
+MobX,Frameworks & Libraries
+RxJS,Frameworks & Libraries
+Framer Motion,Frameworks & Libraries
+Vite,Frameworks & Libraries
+Webpack,Frameworks & Libraries
+Babel,Frameworks & Libraries
+jQuery,Frameworks & Libraries
+Electron,Frameworks & Libraries
+Flutter,Frameworks & Libraries
+Pytest,Frameworks & Libraries
+Jest,Frameworks & Libraries
+Mocha,Frameworks & Libraries
+Chai,Frameworks & Libraries
+Cypress,Frameworks & Libraries
+Selenium,Frameworks & Libraries
+Playwright,Frameworks & Libraries
+BeautifulSoup,Frameworks & Libraries
+Scrapy,Frameworks & Libraries
+Celery,Frameworks & Libraries
+SQLAlchemy,Frameworks & Libraries
+Hibernate,Frameworks & Libraries
+Prisma,Frameworks & Libraries
+Mongoose,Frameworks & Libraries
+TypeORM,Frameworks & Libraries
+PostgreSQL,Databases
+MySQL,Databases
+SQLite,Databases
+MongoDB,Databases
+Redis,Databases
+Cassandra,Databases
+Apache Cassandra,Databases
+DynamoDB,Databases
+Amazon DynamoDB,Databases
+Oracle,Databases
+Oracle Database,Databases
+Microsoft SQL Server,Databases
+MSSQL,Databases
+MariaDB,Databases
+Neo4j,Databases
+Elasticsearch,Databases
+CouchDB,Databases
+Couchbase,Databases
+Firebase Firestore,Databases
+Firestore,Databases
+Firebase Realtime Database,Databases
+Supabase,Databases
+Snowflake,Databases
+BigQuery,Databases
+ClickHouse,Databases
+CockroachDB,Databases
+TimescaleDB,Databases
+InfluxDB,Databases
+FaunaDB,Databases
+Memcached,Databases
+Pinecone,Databases
+ChromaDB,Databases
+Milvus,Databases
+Weaviate,Databases
+Qdrant,Databases
+Neo4j,Databases
+Amazon Aurora,Databases
+AWS,Tools & Platforms
+Amazon Web Services,Tools & Platforms
+GCP,Tools & Platforms
+Google Cloud Platform,Tools & Platforms
+Azure,Tools & Platforms
+Microsoft Azure,Tools & Platforms
+Docker,Tools & Platforms
+Kubernetes,Tools & Platforms
+Git,Tools & Platforms
+GitHub,Tools & Platforms
+GitLab,Tools & Platforms
+Bitbucket,Tools & Platforms
+Jenkins,Tools & Platforms
+GitHub Actions,Tools & Platforms
+GitLab CI,Tools & Platforms
+Travis CI,Tools & Platforms
+CircleCI,Tools & Platforms
+Terraform,Tools & Platforms
+Ansible,Tools & Platforms
+Puppet,Tools & Platforms
+Chef,Tools & Platforms
+Linux,Tools & Platforms
+Unix,Tools & Platforms
+Ubuntu,Tools & Platforms
+Debian,Tools & Platforms
+CentOS,Tools & Platforms
+Red Hat,Tools & Platforms
+Nginx,Tools & Platforms
+Apache,Tools & Platforms
+Postman,Tools & Platforms
+Swagger,Tools & Platforms
+Jira,Tools & Platforms
+Confluence,Tools & Platforms
+Trello,Tools & Platforms
+Asana,Tools & Platforms
+VS Code,Tools & Platforms
+Visual Studio Code,Tools & Platforms
+IntelliJ IDEA,Tools & Platforms
+PyCharm,Tools & Platforms
+Eclipse,Tools & Platforms
+Jupyter Notebook,Tools & Platforms
+JupyterLab,Tools & Platforms
+Vim,Tools & Platforms
+Neovim,Tools & Platforms
+Grafana,Tools & Platforms
+Prometheus,Tools & Platforms
+Datadog,Tools & Platforms
+Splunk,Tools & Platforms
+ELK Stack,Tools & Platforms
+Sentry,Tools & Platforms
+Cloudflare,Tools & Platforms
+Heroku,Tools & Platforms
+Vercel,Tools & Platforms
+Netlify,Tools & Platforms
+DigitalOcean,Tools & Platforms
+Kafka,Tools & Platforms
+Apache Kafka,Tools & Platforms
+RabbitMQ,Tools & Platforms
+ActiveMQ,Tools & Platforms
+Airflow,Tools & Platforms
+Apache Airflow,Tools & Platforms
+Spark,Tools & Platforms
+Apache Spark,Tools & Platforms
+Hadoop,Tools & Platforms
+Apache Hadoop,Tools & Platforms
+Flink,Tools & Platforms
+AWS Lambda,Tools & Platforms
+Amazon S3,Tools & Platforms
+Amazon EC2,Tools & Platforms
+Amazon ECS,Tools & Platforms
+Amazon EKS,Tools & Platforms
+Google Cloud Run,Tools & Platforms
+Figma,Tools & Platforms
+Postman,Tools & Platforms
+Wireshark,Tools & Platforms
+VirtualBox,Tools & Platforms
+VMware,Tools & Platforms
+CMake,Tools & Platforms
+Make,Tools & Platforms
+Gradle,Tools & Platforms
+Maven,Tools & Platforms
+npm,Tools & Platforms
+yarn,Tools & Platforms
+pnpm,Tools & Platforms
+pip,Tools & Platforms
+poetry,Tools & Platforms
+Object-Oriented Programming,Concepts
+OOP,Concepts
+Data Structures and Algorithms,Concepts
+DSA,Concepts
+DSA Fundamentals,Concepts
+REST APIs,Concepts
+RESTful Architecture,Concepts
+GraphQL APIs,Concepts
+Microservices,Concepts
+Microservices Architecture,Concepts
+System Design,Concepts
+Design Patterns,Concepts
+CI/CD,Concepts
+Continuous Integration,Concepts
+Continuous Deployment,Concepts
+Agile,Concepts
+Scrum,Concepts
+Kanban,Concepts
+Waterfall,Concepts
+Test-Driven Development,Concepts
+TDD,Concepts
+Behavior-Driven Development,Concepts
+BDD,Concepts
+Domain-Driven Design,Concepts
+DDD,Concepts
+Model-View-Controller,Concepts
+MVC,Concepts
+Event-Driven Architecture,Concepts
+Serverless,Concepts
+Serverless Architecture,Concepts
+Distributed Systems,Concepts
+High Availability,Concepts
+Scalability,Concepts
+Load Balancing,Concepts
+Caching,Concepts
+Database Normalization,Concepts
+Database Indexing,Concepts
+Concurrency,Concepts
+Multithreading,Concepts
+Asynchronous Programming,Concepts
+Web Sockets,Concepts
+WebRTC,Concepts
+Computer Networks,Concepts
+Operating Systems,Concepts
+Compiler Design,Concepts
+Cybersecurity,Concepts
+Information Security,Concepts
+Penetration Testing,Concepts
+Ethical Hacking,Concepts
+Cryptography,Concepts
+OAuth,Concepts
+JWT,Concepts
+SSO,Concepts
+Authentication,Concepts
+Authorization,Concepts
+Web Development,Concepts
+Frontend Development,Concepts
+Backend Development,Concepts
+Full Stack Development,Concepts
+DevOps,Concepts
+Site Reliability Engineering,Concepts
+SRE,Concepts
+Cloud Computing,Concepts
+Software Architecture,Concepts
+API Design,Concepts
+Code Review,Concepts
+Version Control,Concepts
+Unit Testing,Concepts
+Integration Testing,Concepts
+End-to-End Testing,Concepts
+Performance Tuning,Concepts
+Clean Code,Concepts
+SOLID Principles,Concepts
+Machine Learning,Concepts
+Deep Learning,Concepts
+Natural Language Processing,Concepts
+NLP,Concepts
+Computer Vision,Concepts
+Generative AI,Concepts
+Large Language Models,Concepts
+LLMs,Concepts
+Retrieval-Augmented Generation,Concepts
+RAG,Concepts
+Reinforcement Learning,Concepts
+Data Analysis,Concepts
+Exploratory Data Analysis,Concepts
+EDA,Concepts
+Feature Engineering,Concepts
+Model Training,Concepts
+Model Evaluation,Concepts
+Statistical Modeling,Concepts
+Hypothesis Testing,Concepts
+A/B Testing,Concepts
+Recommendation Systems,Concepts
+Time Series Analysis,Concepts
+Time Series Forecasting,Concepts
+MLOps,Concepts
+Data Mining,Concepts
+Data Engineering,Concepts
+ETL,Concepts
+ELT,Concepts
+Data Modeling,Concepts
+Data Warehousing,Concepts
+Data Lakes,Concepts
+Prompt Engineering,Concepts
+Fine-Tuning,Concepts
+Vector Embeddings,Concepts
+Semantic Search,Concepts
+Supervised Learning,Concepts
+Unsupervised Learning,Concepts
+Clustering,Concepts
+Classification,Concepts
+Regression,Concepts
+Decision Trees,Concepts
+Random Forest,Concepts
+Gradient Boosting,Concepts
+XGBoost,Concepts
+LightGBM,Concepts
+CatBoost,Concepts
+Neural Networks,Concepts
+CNN,Concepts
+RNN,Concepts
+LSTM,Concepts
+Transformer Architecture,Concepts
+BERT,Concepts
+GPT,Concepts
+Communication,Soft Skills
+Written Communication,Soft Skills
+Verbal Communication,Soft Skills
+Teamwork,Soft Skills
+Team Collaboration,Soft Skills
+Cross-functional Collaboration,Soft Skills
+Leadership,Soft Skills
+Team Leadership,Soft Skills
+Problem Solving,Soft Skills
+Analytical Thinking,Soft Skills
+Critical Thinking,Soft Skills
+Time Management,Soft Skills
+Prioritization,Soft Skills
+Adaptability,Soft Skills
+Flexibility,Soft Skills
+Work Ethic,Soft Skills
+Attention to Detail,Soft Skills
+Detail-Oriented,Soft Skills
+Project Management,Soft Skills
+Conflict Resolution,Soft Skills
+Mentoring,Soft Skills
+Coaching,Soft Skills
+Presentation Skills,Soft Skills
+Public Speaking,Soft Skills
+Interpersonal Skills,Soft Skills
+Active Listening,Soft Skills
+Negotiation,Soft Skills
+Stakeholder Management,Soft Skills
+Empathy,Soft Skills
+Emotional Intelligence,Soft Skills
+Self-Motivation,Soft Skills
+Autonomy,Soft Skills
+Decision Making,Soft Skills
+Accountability,Soft Skills
+Ownership,Soft Skills
+Creativity,Soft Skills
+Innovation,Soft Skills
+Resourcefulness,Soft Skills
+Stress Management,Soft Skills
+Resilience,Soft Skills
+Continuous Learning,Soft Skills
+Growth Mindset,Soft Skills
+Strategic Thinking,Soft Skills
+Customer Focus,Soft Skills
+Client Relationship,Soft Skills
+Multi-tasking,Soft Skills
+Organization Skills,Soft Skills
+Planning,Soft Skills
+Troubleshooting,Soft Skills
+Root Cause Analysis,Soft Skills
+Collaboration,Soft Skills
+Peer Review,Soft Skills
+Public Relations,Soft Skills
+Fast Learner,Soft Skills
+Curiosity,Soft Skills
+Patience,Soft Skills
+Initiative,Soft Skills
+Diplomacy,Soft Skills
+Persuasion,Soft Skills
+Cultural Awareness,Soft Skills
+Inclusivity,Soft Skills
+Self-Discipline,Soft Skills
+Professionalism,Soft Skills
+Crisis Management,Soft Skills
+Risk Management,Soft Skills
+Sprint Planning,Soft Skills
+Scrum Master,Soft Skills
+Documentation,Soft Skills
+Technical Writing,Soft Skills
+Teaching,Soft Skills
+Knowledge Sharing,Soft Skills
+Analytical Mindset,Soft Skills
+Critical Analysis,Soft Skills
+Conceptual Thinking,Soft Skills
+Logical Reasoning,Soft Skills
+Deductive Reasoning,Soft Skills
+Inductive Reasoning,Soft Skills
+Customer Service,Soft Skills
+Sales Support,Soft Skills
+Executive Presentation,Soft Skills
+Cross-Cultural Communication,Soft Skills
+Remote Collaboration,Soft Skills
+Asynchronous Communication,Soft Skills
+Team Building,Soft Skills
+Motivational Skills,Soft Skills
+Delegation,Soft Skills
+Strategic Planning,Soft Skills
+Visionary Thinking,Soft Skills
+Constructive Feedback,Soft Skills
+Active Collaboration,Soft Skills
+Self-Reflection,Soft Skills
+Cognitive Flexibility,Soft Skills
+Ethical Judgment,Soft Skills
+Integrity,Soft Skills
+Trustworthiness,Soft Skills
+Dependability,Soft Skills
+Reliability,Soft Skills
+Enthusiasm,Soft Skills
+Dedication,Soft Skills
+Persistence,Soft Skills
+Tenacity,Soft Skills
+Open-Mindedness,Soft Skills
+Inquisitiveness,Soft Skills
+Analytical Reasoning,Soft Skills
+Business Acumen,Soft Skills
+Commercial Awareness,Soft Skills
+Process Improvement,Soft Skills
+Efficiency Optimization,Soft Skills
+Workflow Design,Soft Skills
+Change Management,Soft Skills
+Facilitation,Soft Skills
+Consensus Building,Soft Skills
+Mediation,Soft Skills
+Assertiveness,Soft Skills
+Tolerance of Ambiguity,Soft Skills
+Proactivity,Soft Skills
+Drive for Results,Soft Skills
+Action Oriented,Soft Skills
+Focus,Soft Skills
+Concentration,Soft Skills
+Task Management,Soft Skills
+Deadline Adherence,Soft Skills
+Quality Assurance,Soft Skills
+Diligent,Soft Skills
+Conscientiousness,Soft Skills
+Pragmatism,Soft Skills
+Holistic Thinking,Soft Skills
+Systems Thinking,Soft Skills
+Design Thinking,Soft Skills
+User Empathy,Soft Skills
+Storytelling,Soft Skills
+Data Storytelling,Soft Skills
+Influencing Without Authority,Soft Skills
+Cross-Functional Alignment,Soft Skills
+Vendor Management,Soft Skills
+Budgeting,Soft Skills
+Resource Allocation,Soft Skills
+Goal Setting,Soft Skills
+OKR Management,Soft Skills
+KPI Tracking,Soft Skills
+Performance Coaching,Soft Skills
+Talent Development,Soft Skills
+Community Building,Soft Skills
+Social Intelligence,Soft Skills
+Relationship Building,Soft Skills
+Networking,Soft Skills
+Inspirational Leadership,Soft Skills
+Servant Leadership,Soft Skills
+Transformational Leadership,Soft Skills
+Situational Leadership,Soft Skills
+Self-Care,Soft Skills
+Work-Life Balance,Soft Skills
+Mindfulness,Soft Skills
+Punctuality,Soft Skills
+Respectfulness,Soft Skills
+Humility,Soft Skills
+Self-Awareness,Soft Skills
+Personal Accountability,Soft Skills
+Continuous Improvement,Soft Skills
+Lifelong Learning,Soft Skills

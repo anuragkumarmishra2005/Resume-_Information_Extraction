@@ -1,0 +1,122 @@
+{
+  "personal": {
+    "name": "Amber Burgess",
+    "emails": [
+      "amberburgess68@outlook.com"
+    ],
+    "phones": [
+      "+91 7624588561"
+    ],
+    "location": "Hurstfurt, MN",
+    "links": {
+      "linkedin": "https://linkedin.com/in/amberburgess68",
+      "github": "https://github.com/amberburgess68",
+      "other": [
+        "https://amberburgess68.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented data scientist with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "SQLite",
+      "MongoDB",
+      "Redis",
+      "PostgreSQL",
+      "Web Development",
+      "REST APIs",
+      "Agile",
+      "System Design",
+      "Analytical Thinking",
+      "Leadership",
+      "Problem Solving",
+      "Communication",
+      "Team Collaboration",
+      "SQL",
+      "JavaScript",
+      "Rust",
+      "Python",
+      "C++"
+    ],
+    "by_category": {
+      "Databases": [
+        "SQLite",
+        "MongoDB",
+        "Redis",
+        "PostgreSQL"
+      ],
+      "Concepts": [
+        "Web Development",
+        "REST APIs",
+        "Agile",
+        "System Design"
+      ],
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Leadership",
+        "Problem Solving",
+        "Communication",
+        "Team Collaboration"
+      ],
+      "Languages": [
+        "SQL",
+        "JavaScript",
+        "Rust",
+        "Python",
+        "C++"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "KR Mangalam University",
+      "location": "Gurugram, Haryana, India",
+      "start_year": "2019",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "start_year": "2018",
+      "end_year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "organization": "Microsoft Corporation",
+      "start_date": "Sept 2018",
+      "end_date": "Jan 2019",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 38% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Discuss AI Platform",
+      "technologies": [
+        "Rust",
+        "Analytical Thinking",
+        "Problem Solving",
+        "Leadership"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Rust, Analytical Thinking.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_15.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

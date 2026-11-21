@@ -1,0 +1,129 @@
+{
+  "personal": {
+    "name": "Jose Mason",
+    "emails": [
+      "josemason50@techmail.org"
+    ],
+    "phones": [
+      "+91 9179443408"
+    ],
+    "location": "New Rita, VI",
+    "links": {
+      "linkedin": "https://linkedin.com/in/josemason50",
+      "github": "https://github.com/josemason50",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented machine learning engineer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Java",
+      "Go",
+      "C++",
+      "TypeScript",
+      "Leadership",
+      "Team Collaboration",
+      "Analytical Thinking",
+      "Agile",
+      "REST APIs",
+      "CI/CD"
+    ],
+    "by_category": {
+      "Languages": [
+        "Java",
+        "Go",
+        "C++",
+        "TypeScript"
+      ],
+      "Soft Skills": [
+        "Leadership",
+        "Team Collaboration",
+        "Analytical Thinking"
+      ],
+      "Concepts": [
+        "Agile",
+        "REST APIs",
+        "CI/CD"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Associate Degree in Computer Information Systems",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "start_year": "2018",
+      "end_year": "2022"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Amazon Web Services",
+      "start_date": "Nov 2018",
+      "end_date": "Apr 2019",
+      "location": "Seattle, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 33% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "organization": "Netflix",
+      "start_date": "Feb 2020",
+      "end_date": "May 2021",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 48% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "organization": "Google LLC",
+      "start_date": "Oct 2022",
+      "end_date": "Nov 2023",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 54% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Process Cloud Tracker",
+      "technologies": [
+        "Leadership",
+        "Team Collaboration",
+        "REST APIs",
+        "Java"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Leadership, Team Collaboration.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified AWS Solutions Architect",
+    "Winner of 2025 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_20.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

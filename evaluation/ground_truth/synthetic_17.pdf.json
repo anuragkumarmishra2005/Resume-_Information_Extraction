@@ -1,0 +1,125 @@
+{
+  "personal": {
+    "name": "Courtney Conner",
+    "emails": [
+      "courtneyconner45@gmail.com"
+    ],
+    "phones": [
+      "(820) 963-9138"
+    ],
+    "location": "Carlsonfurt, MS",
+    "links": {
+      "linkedin": "https://linkedin.com/in/courtneyconner45",
+      "github": "https://github.com/courtneyconner45",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented devops engineer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Problem Solving",
+      "Communication",
+      "Team Collaboration",
+      "Analytical Thinking",
+      "Leadership",
+      "React",
+      "Next.js",
+      "Flask",
+      "Tailwind CSS",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "by_category": {
+      "Soft Skills": [
+        "Problem Solving",
+        "Communication",
+        "Team Collaboration",
+        "Analytical Thinking",
+        "Leadership"
+      ],
+      "Frameworks & Libraries": [
+        "React",
+        "Next.js",
+        "Flask",
+        "Tailwind CSS"
+      ],
+      "Databases": [
+        "MongoDB",
+        "Redis",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Associate Degree in Computer Information Systems",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "organization": "Amazon Web Services",
+      "start_date": "May 2018",
+      "end_date": "May 2019",
+      "location": "Seattle, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 63% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Rotors Robotics",
+      "start_date": "Feb 2020",
+      "end_date": "Mar 2021",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 48% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "organization": "Netflix",
+      "start_date": "Feb 2022",
+      "end_date": "July 2023",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 21% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pick Engine",
+      "technologies": [
+        "React",
+        "Redis",
+        "MySQL",
+        "Leadership"
+      ],
+      "description": [
+        "Developed full stack web application leveraging React, Redis.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_17.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "personal": {
+    "name": "David Keller",
+    "emails": [
+      "davidkeller16@techmail.org"
+    ],
+    "phones": [
+      "+91 8817123446"
+    ],
+    "location": "West Allison, PA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/davidkeller16",
+      "github": "https://github.com/davidkeller16",
+      "other": [
+        "https://davidkeller16.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Jira",
+      "Git",
+      "Kubernetes",
+      "Next.js",
+      "FastAPI",
+      "Express",
+      "React",
+      "Flask"
+    ],
+    "by_category": {
+      "Databases": [
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Elasticsearch"
+      ],
+      "Tools & Platforms": [
+        "Jira",
+        "Git",
+        "Kubernetes"
+      ],
+      "Frameworks & Libraries": [
+        "Next.js",
+        "FastAPI",
+        "Express",
+        "React",
+        "Flask"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "start_year": "2020",
+      "end_year": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Google LLC",
+      "start_date": "May 2018",
+      "end_date": "Dec 2019",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 37% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_25.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

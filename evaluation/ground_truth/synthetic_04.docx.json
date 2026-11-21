@@ -1,0 +1,113 @@
+{
+  "personal": {
+    "name": "Robert Cole",
+    "emails": [
+      "robertcole75@outlook.com"
+    ],
+    "phones": [
+      "+91 9192173624"
+    ],
+    "location": "Lisatown, WV",
+    "links": {
+      "linkedin": "https://linkedin.com/in/robertcole75",
+      "github": "https://github.com/robertcole75",
+      "other": [
+        "https://robertcole75.dev"
+      ]
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "Analytical Thinking",
+      "Leadership",
+      "Communication",
+      "DSA",
+      "CI/CD",
+      "Microservices",
+      "Jira",
+      "Jenkins",
+      "Kubernetes",
+      "AWS"
+    ],
+    "by_category": {
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Leadership",
+        "Communication"
+      ],
+      "Concepts": [
+        "DSA",
+        "CI/CD",
+        "Microservices"
+      ],
+      "Tools & Platforms": [
+        "Jira",
+        "Jenkins",
+        "Kubernetes",
+        "AWS"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2017",
+      "end_year": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Meta Platforms",
+      "start_date": "Apr 2018",
+      "end_date": "Mar 2019",
+      "location": "Menlo Park, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 74% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sure Engine",
+      "technologies": [
+        "DSA",
+        "Leadership",
+        "Jenkins",
+        "Jira"
+      ],
+      "description": [
+        "Developed full stack web application leveraging DSA, Leadership.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Collection App",
+      "technologies": [
+        "Leadership",
+        "Analytical Thinking",
+        "Kubernetes",
+        "Jenkins"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Leadership, Analytical Thinking.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified AWS Solutions Architect",
+    "Winner of 2024 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_04.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

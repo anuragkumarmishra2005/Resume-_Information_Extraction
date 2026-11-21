@@ -1,0 +1,144 @@
+{
+  "personal": {
+    "name": "Stephanie Nielsen",
+    "emails": [
+      "stephanienielsen50@techmail.org"
+    ],
+    "phones": [
+      "+91 9324893904"
+    ],
+    "location": "New Mariotown, DE",
+    "links": {
+      "linkedin": "https://linkedin.com/in/stephanienielsen50",
+      "github": "https://github.com/stephanienielsen50",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Go",
+      "Java",
+      "SQL",
+      "HTML",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "Django",
+      "Express",
+      "Spring Boot",
+      "Next.js",
+      "Flask",
+      "CI/CD",
+      "Agile",
+      "DSA"
+    ],
+    "by_category": {
+      "Languages": [
+        "Go",
+        "Java",
+        "SQL",
+        "HTML"
+      ],
+      "Databases": [
+        "MySQL",
+        "Redis",
+        "Elasticsearch"
+      ],
+      "Frameworks & Libraries": [
+        "Django",
+        "Express",
+        "Spring Boot",
+        "Next.js",
+        "Flask"
+      ],
+      "Concepts": [
+        "CI/CD",
+        "Agile",
+        "DSA"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Netflix",
+      "start_date": "June 2018",
+      "end_date": "Present",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 50% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Amazon Web Services",
+      "start_date": "May 2020",
+      "end_date": "Apr 2021",
+      "location": "Seattle, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 42% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Full Stack Engineer",
+      "organization": "Microsoft Corporation",
+      "start_date": "Mar 2022",
+      "end_date": "Nov 2023",
+      "location": "Redmond, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 83% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Woman App",
+      "technologies": [
+        "Next.js",
+        "DSA",
+        "Spring Boot",
+        "Redis"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Next.js, DSA.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Him Cloud Tracker",
+      "technologies": [
+        "SQL",
+        "Django",
+        "Java",
+        "Agile"
+      ],
+      "description": [
+        "Developed full stack web application leveraging SQL, Django.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_22.pdf",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

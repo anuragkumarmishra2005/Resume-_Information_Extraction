@@ -1,0 +1,146 @@
+{
+  "personal": {
+    "name": "Christopher Davis",
+    "emails": [
+      "christopherdavis88@gmail.com"
+    ],
+    "phones": [
+      "+91 9173723577"
+    ],
+    "location": "Cassandraton, VA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/christopherdavis88",
+      "github": "https://github.com/christopherdavis88",
+      "other": [
+        "https://christopherdavis88.dev"
+      ]
+    }
+  },
+  "summary": "Experienced and detail-oriented senior backend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "Team Collaboration",
+      "Problem Solving",
+      "Leadership",
+      "Analytical Thinking",
+      "System Design",
+      "Web Development",
+      "Microservices",
+      "React",
+      "Django",
+      "Express",
+      "pandas"
+    ],
+    "by_category": {
+      "Soft Skills": [
+        "Team Collaboration",
+        "Problem Solving",
+        "Leadership",
+        "Analytical Thinking"
+      ],
+      "Concepts": [
+        "System Design",
+        "Web Development",
+        "Microservices"
+      ],
+      "Frameworks & Libraries": [
+        "React",
+        "Django",
+        "Express",
+        "pandas"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "start_year": "2020",
+      "end_year": "2023"
+    },
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "start_year": "2019",
+      "end_year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cloud Solutions Architect",
+      "organization": "Google LLC",
+      "start_date": "Feb 2018",
+      "end_date": "Present",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 39% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "organization": "Netflix",
+      "start_date": "Oct 2020",
+      "end_date": "Sept 2021",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 38% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "organization": "Amazon Web Services",
+      "start_date": "Jan 2022",
+      "end_date": "May 2023",
+      "location": "Seattle, WA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 66% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Machine Analytics Dashboard",
+      "technologies": [
+        "pandas",
+        "Analytical Thinking",
+        "Problem Solving",
+        "Web Development"
+      ],
+      "description": [
+        "Developed full stack web application leveraging pandas, Analytical Thinking.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    },
+    {
+      "name": "Not App",
+      "technologies": [
+        "Microservices",
+        "Express",
+        "Leadership",
+        "Analytical Thinking"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Microservices, Express.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [
+    "Certified AWS Solutions Architect",
+    "Winner of 2024 Regional Collegiate Hackathon"
+  ],
+  "meta": {
+    "source_file": "synthetic_06.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

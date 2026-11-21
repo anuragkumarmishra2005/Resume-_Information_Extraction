@@ -1,0 +1,121 @@
+{
+  "personal": {
+    "name": "Nicole Day",
+    "emails": [
+      "nicoleday51@gmail.com"
+    ],
+    "phones": [
+      "(537) 621-9117"
+    ],
+    "location": "West Donald, WA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/nicoleday51",
+      "github": "https://github.com/nicoleday51",
+      "other": []
+    }
+  },
+  "summary": null,
+  "skills": {
+    "all": [
+      "System Design",
+      "REST APIs",
+      "OOP",
+      "Microservices",
+      "Python",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Rust",
+      "Jenkins",
+      "AWS",
+      "Linux",
+      "Analytical Thinking",
+      "Communication",
+      "Leadership",
+      "Problem Solving"
+    ],
+    "by_category": {
+      "Concepts": [
+        "System Design",
+        "REST APIs",
+        "OOP",
+        "Microservices"
+      ],
+      "Languages": [
+        "Python",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Rust"
+      ],
+      "Tools & Platforms": [
+        "Jenkins",
+        "AWS",
+        "Linux"
+      ],
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Communication",
+        "Leadership",
+        "Problem Solving"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Indian Institute of Technology Delhi",
+      "location": "New Delhi, India",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Backend Developer",
+      "organization": "Google LLC",
+      "start_date": "Nov 2018",
+      "end_date": "Present",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 40% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "organization": "Google LLC",
+      "start_date": "Sept 2020",
+      "end_date": "July 2021",
+      "location": "Mountain View, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 31% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Option Engine",
+      "technologies": [
+        "Microservices",
+        "AWS",
+        "Communication",
+        "OOP"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Microservices, AWS.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_14.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}

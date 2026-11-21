@@ -1,0 +1,121 @@
+{
+  "personal": {
+    "name": "Helen Peterson",
+    "emails": [
+      "helenpeterson59@example.com"
+    ],
+    "phones": [
+      "+91 7934765444"
+    ],
+    "location": "East Susan, MA",
+    "links": {
+      "linkedin": "https://linkedin.com/in/helenpeterson59",
+      "github": "https://github.com/helenpeterson59",
+      "other": []
+    }
+  },
+  "summary": "Experienced and detail-oriented frontend developer with a proven track record of developing robust, high-performance software systems. Skilled in modern engineering workflows and cross-functional team leadership.",
+  "skills": {
+    "all": [
+      "React",
+      "Tailwind CSS",
+      "pandas",
+      "Spring Boot",
+      "C++",
+      "Python",
+      "Java",
+      "SQL",
+      "HTML",
+      "DSA",
+      "CI/CD",
+      "Web Development",
+      "PostgreSQL",
+      "Elasticsearch",
+      "MySQL",
+      "MongoDB"
+    ],
+    "by_category": {
+      "Frameworks & Libraries": [
+        "React",
+        "Tailwind CSS",
+        "pandas",
+        "Spring Boot"
+      ],
+      "Languages": [
+        "C++",
+        "Python",
+        "Java",
+        "SQL",
+        "HTML"
+      ],
+      "Concepts": [
+        "DSA",
+        "CI/CD",
+        "Web Development"
+      ],
+      "Databases": [
+        "PostgreSQL",
+        "Elasticsearch",
+        "MySQL",
+        "MongoDB"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "start_year": "2019",
+      "end_year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "organization": "Netflix",
+      "start_date": "Apr 2018",
+      "end_date": "July 2019",
+      "location": "Los Gatos, CA",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 36% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "organization": "Rotors Robotics",
+      "start_date": "June 2020",
+      "end_date": "Feb 2021",
+      "location": "New Delhi, India",
+      "description": [
+        "Spearheaded engineering development for cloud microservices achieving 21% performance improvement.",
+        "Engineered scalable REST APIs integrated with SQL and NoSQL database clusters.",
+        "Partnered with cross-functional product teams to deliver customer features ahead of schedule."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blue AI Platform",
+      "technologies": [
+        "Java",
+        "HTML",
+        "C++",
+        "pandas"
+      ],
+      "description": [
+        "Developed full stack web application leveraging Java, HTML.",
+        "Implemented automated CI/CD pipeline and integration tests with 95% code coverage."
+      ]
+    }
+  ],
+  "achievements": [],
+  "meta": {
+    "source_file": "synthetic_05.docx",
+    "pages": 1,
+    "extraction_time_ms": 0,
+    "warnings": []
+  }
+}
