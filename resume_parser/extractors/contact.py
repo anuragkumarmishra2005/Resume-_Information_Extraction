@@ -9,7 +9,10 @@ import re
 from typing import List, Optional, Set, Tuple
 import phonenumbers
 from phonenumbers import PhoneNumberMatcher, PhoneNumberFormat
-import spacy
+try:
+    import spacy
+except (ImportError, Exception):
+    spacy = None
 
 from resume_parser.models import PersonalData, PersonalLinks
 
@@ -21,6 +24,8 @@ _nlp = None
 
 def get_spacy_nlp():
     global _nlp
+    if spacy is None:
+        return None
     if _nlp is None:
         try:
             _nlp = spacy.load("en_core_web_sm")
