@@ -1,8 +1,28 @@
 # Resume Information Extraction Application
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-&branch=main&mainModule=app.py)
+[![CI Tests](https://github.com/anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-/actions/workflows/ci.yml/badge.svg)](https://github.com/anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-/actions)
+![Python 3.10 | 3.11 | 3.12](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 An autonomous, production-grade NLP application that extracts structured candidate information from unstructured resume documents (**PDF** and **DOCX**). Conforms strictly to a defined JSON schema, exports flattened and relational CSVs, provides an interactive **Streamlit** user interface, and includes an automated evaluation harness with real measured metrics.
 
 ---
+
+## 🌐 Live Web Deployment (Streamlit Community Cloud)
+
+This application is ready for 1-click cloud deployment directly from this GitHub repository:
+
+[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-&branch=main&mainModule=app.py)
+
+1. Click the **"Open in Streamlit"** badge above (or visit [Streamlit Community Cloud Deploy](https://share.streamlit.io/deploy?repository=anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-&branch=main&mainModule=app.py)).
+2. Sign in with your GitHub account (`anuragkumarmishra2005`).
+3. Verify the pre-filled settings:
+   - **Repository**: `anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-`
+   - **Branch**: `main`
+   - **Main file path**: `app.py`
+4. Click **Deploy!**. Streamlit Cloud will install dependencies via `requirements.txt` and launch the app live at a public URL (e.g. `https://nlp-capstone-assignment.streamlit.app`).
+
 
 ## 🌟 Key Features
 

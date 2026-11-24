@@ -24,9 +24,15 @@ def get_spacy_nlp():
     if _nlp is None:
         try:
             _nlp = spacy.load("en_core_web_sm")
-        except Exception as e:
-            logger.warning("Failed to load en_core_web_sm: %s", e)
-            _nlp = None
+        except Exception:
+            try:
+                import subprocess
+                import sys
+                subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"], check=True)
+                _nlp = spacy.load("en_core_web_sm")
+            except Exception as e:
+                logger.warning("Failed to load or download en_core_web_sm: %s", e)
+                _nlp = None
     return _nlp
 
 
