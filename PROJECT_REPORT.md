@@ -1,11 +1,14 @@
 # Project Report: Resume Information Extraction System
 
-**Author:** Antigravity AI Engineering  
+**Author:** Anurag Kumar Mishra & Antigravity AI Engineering  
 **Project:** Automatic Resume Parsing & Information Extraction  
 **Dataset:** Consented Real Resume & 25 Synthetic Resumes (DOCX & PDF)  
 **Date:** November 2026  
+**GitHub Repository:** [https://github.com/anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-](https://github.com/anuragkumarmishra2005/NLP-CAPSTONE-ASSIGNMENT-)  
+**Live Web Application:** [https://anuragkumarmishra2005-nlp-capstone-assignment--app-caabjf.streamlit.app/](https://anuragkumarmishra2005-nlp-capstone-assignment--app-caabjf.streamlit.app/)  
 
 ---
+
 
 ## 1. Project Objective & Scope
 
